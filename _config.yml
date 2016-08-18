@@ -1,6 +1,6 @@
-title: Immaculate
+title: Flow
 description: >
-        :beginner: Surveyal of computer vision
+        Surveyal of computer vision
 baseurl: "/flow"
 url: "https://github.com/spin-systems/flow"
 paginate:	4 # The number of posts to show per page on your homepage

@@ -1,0 +1,13 @@
+title: Immaculate
+description: >
+        :beginner: Surveyal of computer vision
+baseurl: "/flow"
+url: "https://github.com/spin-systems/flow"
+paginate:	4 # The number of posts to show per page on your homepage
+name: "Louis Maddox"
+markdown: kramdown
+permalink: none
+kramdown:
+  parse_block_html: true
+gems:
+  - jekyll-paginate

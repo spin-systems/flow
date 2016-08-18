@@ -5,7 +5,8 @@ baseurl: "/flow"
 url: "https://github.com/spin-systems/flow"
 paginate:	4 # The number of posts to show per page on your homepage
 name: "Louis Maddox"
-twitter: "biochemistries"
+twitterb: "biochemistries"
+twitterp: "permutans"
 markdown: kramdown
 permalink: none
 kramdown:

@@ -59,4 +59,3 @@ layout: default
 
 </main>
 
-{% include footer.html %}

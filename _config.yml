@@ -1,7 +1,7 @@
 title: Flow
 description: >
         Surveyal of computer vision
-baseurl: "/flow"
+baseurl: ''
 url: "https://github.com/spin-systems/flow"
 paginate:	4 # The number of posts to show per page on your homepage
 name: "Louis Maddox"
